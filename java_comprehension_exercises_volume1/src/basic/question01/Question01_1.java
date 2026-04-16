@@ -8,7 +8,20 @@ public class Question01_1 {
 
 	public static void main(String[] args) {
 
-		// TODO:ここに実装
+		int price;
+		String item;
+
+		price = 120;
+		item = "ノート";
+
+		System.out.println(price);
+		System.out.println(item);
+
+		price = 200;
+		item = "鉛筆";
+
+		System.out.println(price);
+		System.out.println(item);
 
 	}
 

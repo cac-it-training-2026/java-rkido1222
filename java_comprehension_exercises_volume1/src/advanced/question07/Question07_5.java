@@ -14,5 +14,6 @@ public class Question07_5 {
 		int[] amounts = new int[5];
 
 		// TODO: 実装ここから
+		System.out.println("");
 	}
 }
